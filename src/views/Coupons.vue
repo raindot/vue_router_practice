@@ -1,5 +1,5 @@
 <template>
   <div>
-    訂單列表
+    優惠券列表
   </div>
 </template>

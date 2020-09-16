@@ -1,5 +1,5 @@
 <template>
   <div>
-    訂單列表
+    產品管理列表
   </div>
 </template>
